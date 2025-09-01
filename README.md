@@ -1,2 +1,2 @@
 # LogicaProgramacaoSerratec
-Testes pra repositorio de logica - serratec
+Repositorio dos trabalhos de Logica de Programação da Residência TIC/ Software do Serratec 2025.2, na linguagem Portugol.
